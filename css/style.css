@@ -33,7 +33,7 @@ body {
 
 .img {
   position: relative;
-  padding-left: 35px;
+  padding-left: 40px;
   top: 10px;
 }
 
@@ -42,21 +42,21 @@ body {
   float: right;
   line-height: 8px;
   bottom: 45px;
-  right: 55px;
+  right: 95px;
 }
 
 .distance {
   position: relative;
-  top: 5px;
-  padding-left: 5px;
+  padding-left: 3px;
+  padding-top: 10px;
 }
 
 .fa-2 {
   position: relative;
   float: right;
-  left: 40px;
-  bottom: 25px;
-  font-size: 20px;
+  left: 75px;
+  bottom: 28px;
+  font-size: 30px;
   color: #DEDBDB;
 }
 
@@ -66,10 +66,9 @@ body {
   padding-top: 35px;
 }
 
-.east, h2 {
+.east, h3 {
   position: relative;
   padding-top: 20px;
-  padding-bottom: 10px;
 }
 
 .line, h1 {
@@ -94,6 +93,7 @@ body {
   text-align: right;
   padding-right: 60px;
   bottom: 60px;
+  line-height: 20px;
 }
 
 .details {
@@ -111,7 +111,7 @@ body {
   line-height: 3px;
   font-size: 15px;
   color: #DEDBDB;
-  bottom: 50px;
+  bottom: 45px;
 }
 
 .fa-4 {
