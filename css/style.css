@@ -42,7 +42,7 @@ body {
   float: right;
   line-height: 8px;
   bottom: 45px;
-  right: 95px;
+  right: 85px;
 }
 
 .distance {
@@ -54,7 +54,7 @@ body {
 .fa-2 {
   position: relative;
   float: right;
-  left: 75px;
+  left: 70px;
   bottom: 28px;
   font-size: 30px;
   color: #DEDBDB;
