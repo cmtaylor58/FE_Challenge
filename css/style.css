@@ -14,7 +14,8 @@ body {
 
 .container {
   margin: auto;
-  margin-top: 50px;
+  padding-top: 10px;
+  padding-bottom: 30px;
   width: 375px;
   height: 559px;
   background-color: #ffffff;
@@ -40,7 +41,7 @@ body {
 .busstop_info {
   position: relative;
   float: right;
-  bottom: 70px;
+  bottom: 60px;
   right: 80px;
 }
 
@@ -61,25 +62,25 @@ body {
 
 h3 {
   position: relative;
-  padding-top: 40px;
+  padding-top: 30px;
 }
 
 h4 {
   position: relative;
-  padding-top: 10px;
+  padding-top: 15px;
   font-size: 1.5em;
   font-weight: inherit;
 }
 
 h5 {
-  position: relative;
-  padding-top: 5px;
+  font-weight: inherit;
+  padding-left: 2px;
 }
 
 h6 {
   position: relative;
   float: right;
-  right: 60px;
+  right: 70px;
   bottom: 30px;
   font-size: .8em;
 }
@@ -88,8 +89,6 @@ h6 {
   position: relative;
   font-size: 15px;
   color: #DEDBDB;
-}
-
-.h_line, hr {
-  width: 100%;
+  left: 320px;
+  bottom: 30px;
 }
