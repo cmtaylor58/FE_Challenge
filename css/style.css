@@ -32,7 +32,7 @@ body {
   color: #DEDBDB;
 }
 
-.bus {
+.img {
   position: relative;
   padding-left: 40px;
   top: 10px;
@@ -41,14 +41,14 @@ body {
 .busstop_info {
   position: relative;
   float: right;
-  bottom: 60px;
+  bottom: 30px;
   right: 80px;
 }
 
 .fa-2 {
   position: relative;
   float: right;
-  left: 150px;
+  left: 160px;
   bottom: 28px;
   font-size: 30px;
   color: #DEDBDB;
@@ -57,12 +57,16 @@ body {
 .schedule {
   position: relative;
   padding-left: 15px;
+  padding-top: 50px;
+}
+
+.bus {
+  position: relative;
   padding-top: 20px;
 }
 
-h3 {
-  position: relative;
-  padding-top: 30px;
+.bus_info {
+  border-bottom: 1px solid;
 }
 
 h4 {
@@ -89,6 +93,6 @@ h6 {
   position: relative;
   font-size: 15px;
   color: #DEDBDB;
-  left: 320px;
+  left: 335px;
   bottom: 30px;
 }
