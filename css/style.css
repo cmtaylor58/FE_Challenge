@@ -1,0 +1,98 @@
+body {
+  background-color: #000000;
+  font-family: sans-serif;
+}
+
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin: auto;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  width: 375px;
+  height: 559px;
+  background-color: #ffffff;
+  overflow: scroll;
+  overflow-x: hidden;
+  scrollbar-face-color: #DEDBDB;
+}
+
+.fa-1 {
+  position: relative;
+  top: 40px;
+  padding-left: 15px;
+  font-size: 15px;
+  color: #DEDBDB;
+}
+
+.img {
+  position: relative;
+  padding-left: 40px;
+  top: 10px;
+}
+
+.busstop_info {
+  position: relative;
+  float: right;
+  bottom: 30px;
+  right: 80px;
+}
+
+.fa-2 {
+  position: relative;
+  float: right;
+  left: 160px;
+  bottom: 28px;
+  font-size: 30px;
+  color: #DEDBDB;
+}
+
+.schedule {
+  position: relative;
+  padding-left: 15px;
+  padding-top: 50px;
+}
+
+.bus {
+  position: relative;
+  padding-top: 20px;
+}
+
+.bus_info {
+  border-bottom: 1px solid;
+}
+
+h4 {
+  position: relative;
+  padding-top: 15px;
+  font-size: 1.5em;
+  font-weight: inherit;
+}
+
+h5 {
+  font-weight: inherit;
+  padding-left: 2px;
+}
+
+h6 {
+  position: relative;
+  float: right;
+  right: 70px;
+  bottom: 30px;
+  font-size: .8em;
+}
+
+.fa-3 {
+  position: relative;
+  font-size: 15px;
+  color: #DEDBDB;
+  left: 335px;
+  bottom: 30px;
+}
